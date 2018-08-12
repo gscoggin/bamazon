@@ -1,0 +1,32 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon app to demonstrate node.js and mySQL working together in a CLI app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gscoggin/bamazon.git"
+  },
+  "keywords": [
+    "node.js",
+    "mySQL",
+    "Javascript",
+    "command",
+    "line",
+    "app"
+  ],
+  "author": "Gabe Scoggin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gscoggin/bamazon/issues"
+  },
+  "homepage": "https://github.com/gscoggin/bamazon#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
