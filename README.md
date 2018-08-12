@@ -2,7 +2,7 @@
 
 ## Overview
 
-This app, bamazon.js demonstrates how to use node.js, javascript, mySQL together to simulate the function of a shopping app
+This app, bamazon.js, demonstrates how to use node.js, javascript, mySQL together to simulate the function of a shopping app
 
 The functionality is very simple. Once the app opens it does the following:
   
